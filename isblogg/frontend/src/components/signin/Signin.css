@@ -1,0 +1,17 @@
+.bg-signin {
+    background-color: #1a1a1a; /* Light black background */
+  }
+  
+  .white-text {
+    color: white; /* White text color */
+  }
+  
+  .input-white {
+    background-color: #eee; /* Light grey background for input */
+    color: black; /* Black text color */
+  }
+  
+  .btn-login {
+    background-color: var(--dark-maroon); /* Dark maroon button color */
+  }
+  
